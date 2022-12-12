@@ -1,6 +1,6 @@
-# For an illustration example, please download ID and AE dataset from RShiny website
-# Read in ID dataset and name it id0
-# Read in AE dataset and name it ae0
+# For an illustration example, please download ID and AE dataset from Sample Data file
+# Read in ID dataset in R and name it id0
+# Read in AE dataset in R and name it ae0
 # And run the codes below to generate the dataset needed for the plots
 
 library(dplyr)
