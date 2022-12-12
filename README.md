@@ -24,10 +24,10 @@ For an illustration example, you can download the sample datasets from the **Sam
     * Treatment arm you would like to be used to sort all the plots
     * Whether you would like to plot count or percent
     * Whether you would like to use abbreviation for the categories in the plots
-* `TypeHorizontalBar.R` and `TypeVerticalBar.R` can only be used to visualize AE data summarized on the AE type level. To use the functions to plot the graphs, you can specify:
+* `TypeHorizontalBar.R` and `TypeVerticalBar.R` contain functions that can only be used to visualize AE data summarized on the AE type level. To use the functions to plot the graphs, you need to specify:
   * circular1(df_pt_ae, tox_include)
   * circular2(df_pt_ae, tox_include)
-* `CatHorizontalBar.R` , `CatVerticalBar.R` , `CatCombinedCircular.R` and `CatSeparateCircular.R` are used to visualize AE data summarized on the category level. To use the functions to plot the graphs, you can specify:
+* `CatHorizontalBar.R` , `CatVerticalBar.R` , `CatCombinedCircular.R` and `CatSeparateCircular.R` contain functions that can only be used to visualize AE data summarized on the category level. To use the functions to plot the graphs, you need to specify:
   * circular3(df_pt_cat, tox_include)
   * circular4(df_pt_cat, tox_include)
   * circular5(df_pt_cat, tox_include)
