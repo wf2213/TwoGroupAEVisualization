@@ -1,4 +1,4 @@
-# Two-Group AE Visualization <img src="app_Visualization_old.png" width=5% height=5%> 
+# Two-Group AE Visualization <img src="app_Visualization_old.png" align="right" width="240" />
 
 #### :wave: Hi, there
 
