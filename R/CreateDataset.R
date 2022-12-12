@@ -31,7 +31,7 @@ trno_ind = "TRNO"
 
 # inclusions
 attr_include = "Yes" # attribution level you would like to include for the analysis
-tox_include = 2 # toxicity grade you would like to include for the analysis
+tox_include = 3 # toxicity grade you would like to include for the analysis
 cat_include = "None" # category you would like to exclude for the analysis
 
 group = "Maximum Toxicity Type" # or "Maximum Toxicity Category", indicating how you would like the data to be summarized
