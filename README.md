@@ -26,6 +26,8 @@ For an illustration example, you can download the sample datasets from the **Sam
     * Whether you would like to use abbreviation for the categories in the plots
 * `TypeHorizontalBar.R` and `TypeVerticalBar.R` contain functions that can only be used to visualize AE data summarized on the AE type level. To use the functions to plot the graphs, you need to specify:
   * circular1(df_pt_ae, tox_include)
+  ![circular1](https://user-images.githubusercontent.com/75338470/207113050-5ed348e4-ffa5-40fb-95f5-9712f4023f35.png)
+
   * circular2(df_pt_ae, tox_include)
 * `CatHorizontalBar.R` , `CatVerticalBar.R` , `CatCombinedCircular.R` and `CatSeparateCircular.R` contain functions that can only be used to visualize AE data summarized on the category level. To use the functions to plot the graphs, you need to specify:
   * circular3(df_pt_cat, tox_include)
