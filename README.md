@@ -14,7 +14,7 @@ With the codes, you will be able to:
 For an illustration example, you can download the sample datasets from the **Sample Data** file. To generate any graph, you need to:
 
 * First import the ID and AE dataset in R
-* Run the *CreateDataset.R* to generate the datasets needed for the functions to plot graphs (*df_pt_cat* when the data is summarized by category, *df_pt_ae* when the data is summarized by type)
+* Run the `CreateDataset.R` to generate the datasets needed for the functions to plot graphs (*df_pt_cat* when the data is summarized by category, *df_pt_ae* when the data is summarized by type)
   * If you are using different datasets, make sure that you change the variable names accordingly to the same names as in the sample datasets
   * The file contains variables you need to specify, including:
     * Attribution level you would like to include for the analysis
