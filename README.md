@@ -32,14 +32,14 @@ For an illustration example, you can download the sample datasets from the **Sam
 
 4. Specify the following function to create the correponding plots. 
 
-* `TypeHorizontalBar.R` and `TypeVerticalBar.R` contain functions that can only be used to visualize AE data summarized on the AE type level. To use the functions to plot the graphs, you need to specify:
+* `TypeHorizontalBar.R` and `TypeVerticalBar.R` contain functions that can only be used to visualize AE data summarized on the **AE type level**. To use the functions to plot the graphs, you need to specify:
   * circular1(df_pt_ae, tox_include)
   ![circular1](https://user-images.githubusercontent.com/75338470/207113050-5ed348e4-ffa5-40fb-95f5-9712f4023f35.png)
 
   * circular2(df_pt_ae, tox_include)
   ![circular2](https://user-images.githubusercontent.com/75338470/207113250-0c52e6aa-3a70-422c-bfb5-6e4ab52e2053.png)
   
-* `CatHorizontalBar.R` , `CatVerticalBar.R` , `CatCombinedCircular.R` and `CatSeparateCircular.R` contain functions that can only be used to visualize AE data summarized on the category level. To use the functions to plot the graphs, you need to specify:
+* `CatHorizontalBar.R` , `CatVerticalBar.R` , `CatCombinedCircular.R` and `CatSeparateCircular.R` contain functions that can only be used to visualize AE data summarized on the **AE category level**. To use the functions to plot the graphs, you need to specify:
   
   * circular3(df_pt_cat, tox_include)
   ![circular3](https://user-images.githubusercontent.com/75338470/207113278-a5c3bb7d-2dc6-47ee-8991-94b6a617015c.png)
