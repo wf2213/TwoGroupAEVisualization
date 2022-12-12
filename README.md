@@ -2,7 +2,7 @@
 
 #### :wave: Hi, there
 
-This file is for you to get started with using the codes for adverse event visualization from the Shiny app designed to visually compare adverse event profiles between two groups (link). 
+This file can help you to get started with using the codes for adverse event visualization from the Shiny app designed to visually compare adverse event profiles between two groups (link). 
 
 
 With the codes, you will be able to:
