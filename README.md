@@ -22,7 +22,7 @@ For an illustration example, you can download the sample datasets from the **Sam
     * Category you would like to exclude for the analysis
     * How you would like the data to be summarized ("Maximum Toxicity Type" or "Maximum Toxicity Category")
     * Treatment arm you would like to be used to sort all the plots
-    * Whether you would like to report count or percent
+    * Whether you would like to plot count or percent
     * Whether you would like to use abbreviation for the categories in the plots
 * `TypeHorizontalBar.R` and `TypeVerticalBar.R` can only used to visualize AE data summarized on the type level. To use the functions to plot the graphs, you will be specifying:
   * circular1(df_pt_ae, tox_include)
