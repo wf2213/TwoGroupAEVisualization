@@ -1,4 +1,4 @@
-### Two-Group AE Visualization
+![app_Visualization_old.png](app_Visualization_old.png) ### Two-Group AE Visualization
 
 #### :wave: Hi, there
 
