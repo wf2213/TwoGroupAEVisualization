@@ -1,0 +1,91 @@
+# For an illustration example, please download ID and AE dataset from RShiny website
+# Read in ID dataset and name it id0
+# Read in AE dataset and name it ae0
+# And run the codes below to generate the dataset needed for the plots
+
+library(dplyr)
+library(tidyverse)
+library(grid)
+library(gt)
+library(gridExtra)
+library(xtable)
+library(reshape2)
+library(stringr)
+library(tidytext)
+library(ggplot2)
+library(tibble)
+library(gtable)
+library(DT)
+library(purrr)
+
+#################################################################
+##                      Specify Variables                      ##
+#################################################################
+# specify variables for datasets
+id_ind = "PATNO"
+attr_ind = "TXATT"
+ae_ind = "TOXLABEL"
+cat_ind = "CTC_CAT"
+tox_ind = "TOXDEG"
+trno_ind = "TRNO"
+
+# inclusions
+attr_include = "Yes" 
+tox_include = 2
+cat_include = "None"
+
+group = "Maximum Toxicity Type" or "Maximum Toxicity Category"
+
+# order in table
+order = "A"
+type = "Percent" # or "Count"
+abbre = "Yes" # or "No"
+
+#################################################################
+##                       Create Datasets                       ##
+#################################################################
+trt_group = id0 %>%
+  mutate(PATNO1 = id0[, c(id_ind)],
+         TRNO1 = id0[, c(trno_ind)]) %>%
+  select(id_ind, trno_ind, PATNO1, TRNO1) %>%
+  mutate(TRNO1 = as.character(TRNO1))
+  
+# define the AE dataset
+df1 = ae0 %>%
+  mutate(
+    PATNO1 = ae0[, c(id_ind)],
+    TOXLABEL1 = ae0[, c(ae_ind)],
+    CTC_CAT1 = ae0[, c(cat_ind)],
+    TOXDEG1 = ae0[, c(tox_ind)],
+    TXATT1 = ae0[, c(attr_ind)]
+  ) %>%
+  mutate(TOXDEG1 = as.numeric(as.character(TOXDEG1)))
+
+df = df1 %>% 
+  filter(TXATT1 %in% attr_include,
+         as.numeric(TOXDEG1) >= tox_include,
+         !(CTC_CAT1 %in% cat_include)) %>% 
+  mutate(TXATT1 = factor(TXATT1))
+
+if(abbre=="Yes"){
+  df = df %>% 
+    mutate(CTC_CAT1 = CTC_CAT1 %>% gsub(",.*$", "",.) %>% word(1))
+}
+
+# max toxdeg per category per patient
+df_pt_cat = df %>% 
+  mutate(TOXDEG1 = as.numeric(as.character(TOXDEG1))) %>% 
+  #as_tibble() %>% 
+  group_by(PATNO1, CTC_CAT1) %>% 
+  filter(TOXDEG1 == max(TOXDEG1)) %>%
+  slice(1)%>%
+  ungroup()
+
+# max toxdeg per type per patient
+df_pt_ae = df %>% 
+  mutate(TOXDEG1 = as.numeric(as.character(TOXDEG1))) %>% 
+  as_tibble() %>% 
+  group_by(PATNO1, TOXLABEL1) %>% 
+  filter(TOXDEG1 == max(TOXDEG1)) %>% # or top_n(1, TOXDEG)
+  slice(1)%>%
+  ungroup()
