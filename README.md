@@ -1,6 +1,4 @@
-![app_Visualization_old.png](app_Visualization_old.png =10x20) 
-
-<img src="app_Visualization_old.png" width=50% height=50%>
+<img src="app_Visualization_old.png" width=10% height=10%>
 
 ### Two-Group AE Visualization
 
