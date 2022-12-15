@@ -1,4 +1,4 @@
-circular1 = function(data, tox_include, cats = unique(data$CTC_CAT1)){
+TypeVerticalBar = function(data, tox_include, cats = unique(data$CTC_CAT1)){
   
   order_trt = order %>% as.character()
   other_trt = setdiff(trt_group$TRNO1 %>% unique(), order_trt) %>% as.character()
