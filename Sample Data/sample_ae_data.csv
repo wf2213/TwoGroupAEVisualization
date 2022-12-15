@@ -1,0 +1,401 @@
+"","PATNO","CYCLE","CTC_CAT","TOXLABEL","TOXDEG","TXATT","AEONGOING"
+"1",22,3,"Gastrointestinal disorders","Abdominal pain",1,"Yes",0
+"2",16,5,"Gastrointestinal disorders","Abdominal pain",1,"Yes",1
+"3",37,2,"Gastrointestinal disorders","Abdominal pain",1,"Yes",0
+"4",25,3,"Gastrointestinal disorders","Abdominal pain",4,"No",0
+"5",40,2,"Gastrointestinal disorders","Abdominal pain",2,"No",0
+"6",16,5,"Gastrointestinal disorders","Abdominal pain",3,"No",1
+"7",36,5,"Gastrointestinal disorders","Abdominal pain",1,"Yes",1
+"8",19,3,"Gastrointestinal disorders","Abdominal pain",1,"Yes",0
+"9",20,1,"Gastrointestinal disorders","Abdominal pain",2,"Yes",0
+"10",13,1,"Gastrointestinal disorders","Abdominal pain",1,"Yes",0
+"11",35,5,"Gastrointestinal disorders","Abdominal pain",2,"No",1
+"12",11,2,"Gastrointestinal disorders","Abdominal pain",1,"No",0
+"13",22,1,"Renal and urinary disorders","Acute kidney injury",2,"No",0
+"14",20,3,"Renal and urinary disorders","Acute kidney injury",1,"Yes",0
+"15",6,1,"Renal and urinary disorders","Acute kidney injury",3,"Yes",0
+"16",4,3,"Renal and urinary disorders","Acute kidney injury",1,"No",0
+"17",20,4,"Renal and urinary disorders","Acute kidney injury",1,"No",0
+"18",1,3,"Renal and urinary disorders","Acute kidney injury",1,"Yes",0
+"19",21,1,"Renal and urinary disorders","Acute kidney injury",1,"Yes",0
+"20",8,2,"Renal and urinary disorders","Acute kidney injury",3,"Yes",0
+"21",9,2,"Renal and urinary disorders","Acute kidney injury",1,"Yes",0
+"22",8,1,"Renal and urinary disorders","Acute kidney injury",2,"Yes",0
+"23",22,3,"Renal and urinary disorders","Acute kidney injury",1,"Yes",0
+"24",7,5,"Endocrine disorders","Adrenal insufficiency",1,"Yes",1
+"25",22,4,"Endocrine disorders","Adrenal insufficiency",1,"Yes",0
+"26",17,2,"Endocrine disorders","Adrenal insufficiency",1,"No",0
+"27",27,1,"Endocrine disorders","Adrenal insufficiency",1,"Yes",0
+"28",14,1,"Endocrine disorders","Adrenal insufficiency",1,"No",0
+"29",3,1,"Endocrine disorders","Adrenal insufficiency",1,"Yes",0
+"30",3,5,"Endocrine disorders","Adrenal insufficiency",2,"Yes",1
+"31",7,5,"Endocrine disorders","Adrenal insufficiency",1,"Yes",1
+"32",10,2,"Endocrine disorders","Adrenal insufficiency",1,"Yes",0
+"33",30,4,"Endocrine disorders","Adrenal insufficiency",1,"Yes",0
+"34",26,1,"Endocrine disorders","Adrenal insufficiency",2,"Yes",0
+"35",26,3,"Endocrine disorders","Adrenal insufficiency",1,"Yes",0
+"36",24,5,"Psychiatric disorders","Agitation",2,"No",1
+"37",6,2,"Psychiatric disorders","Agitation",2,"Yes",0
+"38",8,4,"Psychiatric disorders","Agitation",1,"No",0
+"39",24,1,"Psychiatric disorders","Agitation",2,"Yes",0
+"40",25,4,"Psychiatric disorders","Agitation",2,"Yes",0
+"41",23,1,"Psychiatric disorders","Agitation",1,"Yes",0
+"42",5,3,"Psychiatric disorders","Agitation",2,"Yes",0
+"43",26,5,"Psychiatric disorders","Agitation",1,"Yes",1
+"44",15,5,"Psychiatric disorders","Agitation",4,"No",1
+"45",9,1,"Psychiatric disorders","Agitation",1,"Yes",0
+"46",25,4,"Psychiatric disorders","Agitation",2,"Yes",0
+"47",38,3,"Psychiatric disorders","Agitation",3,"Yes",0
+"48",19,2,"Psychiatric disorders","Agitation",2,"Yes",0
+"49",40,3,"Investigations","Alkaline phosphatase increased",1,"Yes",0
+"50",6,1,"Investigations","Alkaline phosphatase increased",1,"Yes",0
+"51",2,4,"Investigations","Alkaline phosphatase increased",1,"Yes",0
+"52",33,3,"Investigations","Alkaline phosphatase increased",1,"Yes",0
+"53",28,1,"Investigations","Alkaline phosphatase increased",1,"Yes",0
+"54",5,3,"Investigations","Alkaline phosphatase increased",2,"No",0
+"55",27,3,"Investigations","Alkaline phosphatase increased",1,"No",0
+"56",25,2,"Investigations","Alkaline phosphatase increased",4,"No",0
+"57",38,4,"Investigations","Alkaline phosphatase increased",1,"No",0
+"58",29,1,"Investigations","Alkaline phosphatase increased",4,"Yes",0
+"59",16,1,"Investigations","Alkaline phosphatase increased",1,"Yes",0
+"60",19,1,"Investigations","Alkaline phosphatase increased",1,"No",0
+"61",21,5,"Investigations","Alkaline phosphatase increased",1,"Yes",1
+"62",11,2,"Skin and subcutaneous tissue disorders","Alopecia",3,"Yes",0
+"63",33,5,"Skin and subcutaneous tissue disorders","Alopecia",2,"No",1
+"64",38,3,"Skin and subcutaneous tissue disorders","Alopecia",1,"Yes",0
+"65",39,4,"Skin and subcutaneous tissue disorders","Alopecia",1,"Yes",0
+"66",38,5,"Skin and subcutaneous tissue disorders","Alopecia",1,"Yes",1
+"67",13,4,"Skin and subcutaneous tissue disorders","Alopecia",1,"Yes",0
+"68",24,5,"Skin and subcutaneous tissue disorders","Alopecia",1,"No",1
+"69",35,1,"Skin and subcutaneous tissue disorders","Alopecia",1,"Yes",0
+"70",8,1,"Skin and subcutaneous tissue disorders","Alopecia",3,"Yes",0
+"71",2,3,"Skin and subcutaneous tissue disorders","Alopecia",4,"Yes",0
+"72",38,4,"Skin and subcutaneous tissue disorders","Alopecia",2,"No",0
+"73",28,1,"Skin and subcutaneous tissue disorders","Alopecia",1,"Yes",0
+"74",14,3,"Skin and subcutaneous tissue disorders","Alopecia",1,"No",0
+"75",34,3,"Skin and subcutaneous tissue disorders","Alopecia",1,"Yes",0
+"76",37,3,"Investigations","ALT increased",1,"No",0
+"77",32,5,"Investigations","ALT increased",1,"Yes",1
+"78",4,2,"Investigations","ALT increased",1,"Yes",0
+"79",10,2,"Investigations","ALT increased",1,"No",0
+"80",35,1,"Investigations","ALT increased",1,"No",0
+"81",22,4,"Investigations","ALT increased",1,"No",0
+"82",39,2,"Investigations","ALT increased",3,"Yes",0
+"83",10,1,"Investigations","ALT increased",1,"Yes",0
+"84",2,1,"Investigations","ALT increased",4,"No",0
+"85",32,4,"Investigations","ALT increased",3,"Yes",0
+"86",27,2,"Investigations","ALT increased",2,"Yes",0
+"87",14,1,"Investigations","ALT increased",4,"No",0
+"88",5,5,"Investigations","ALT increased",2,"Yes",1
+"89",8,2,"Investigations","ALT increased",1,"No",0
+"90",19,1,"Investigations","ALT increased",1,"Yes",0
+"91",23,1,"Blood and lymphatic system disorders","Anemia",3,"Yes",0
+"92",38,4,"Blood and lymphatic system disorders","Anemia",3,"Yes",0
+"93",23,2,"Blood and lymphatic system disorders","Anemia",1,"Yes",0
+"94",31,3,"Blood and lymphatic system disorders","Anemia",1,"No",0
+"95",29,4,"Blood and lymphatic system disorders","Anemia",2,"Yes",0
+"96",27,1,"Blood and lymphatic system disorders","Anemia",2,"No",0
+"97",25,5,"Blood and lymphatic system disorders","Anemia",2,"Yes",1
+"98",15,1,"Blood and lymphatic system disorders","Anemia",2,"No",0
+"99",37,5,"Blood and lymphatic system disorders","Anemia",1,"Yes",1
+"100",35,3,"Blood and lymphatic system disorders","Anemia",3,"Yes",0
+"101",40,3,"Blood and lymphatic system disorders","Anemia",3,"Yes",0
+"102",13,1,"Blood and lymphatic system disorders","Anemia",1,"Yes",0
+"103",28,3,"Blood and lymphatic system disorders","Anemia",1,"No",0
+"104",26,4,"Blood and lymphatic system disorders","Anemia",1,"No",0
+"105",3,5,"Blood and lymphatic system disorders","Anemia",3,"Yes",1
+"106",20,3,"Blood and lymphatic system disorders","Anemia",3,"Yes",0
+"107",3,1,"Blood and lymphatic system disorders","Anemia",2,"Yes",0
+"108",3,2,"Metabolism and nutrition disorders","Anorexia",3,"Yes",0
+"109",11,3,"Metabolism and nutrition disorders","Anorexia",1,"Yes",0
+"110",9,3,"Metabolism and nutrition disorders","Anorexia",4,"No",0
+"111",12,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+"112",12,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+"113",40,3,"Metabolism and nutrition disorders","Anorexia",1,"Yes",0
+"114",37,1,"Metabolism and nutrition disorders","Anorexia",1,"Yes",0
+"115",22,1,"Metabolism and nutrition disorders","Anorexia",1,"No",0
+"116",29,5,"Metabolism and nutrition disorders","Anorexia",1,"No",1
+"117",26,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+"118",30,2,"Metabolism and nutrition disorders","Anorexia",1,"Yes",0
+"119",7,5,"Metabolism and nutrition disorders","Anorexia",2,"Yes",1
+"120",22,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+"121",38,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+"122",19,2,"Metabolism and nutrition disorders","Anorexia",1,"Yes",0
+"123",7,1,"Psychiatric disorders","Anxiety",1,"No",0
+"124",32,2,"Psychiatric disorders","Anxiety",5,"No",0
+"125",6,5,"Psychiatric disorders","Anxiety",4,"No",1
+"126",6,4,"Psychiatric disorders","Anxiety",1,"Yes",0
+"127",28,3,"Psychiatric disorders","Anxiety",2,"Yes",0
+"128",29,5,"Psychiatric disorders","Anxiety",2,"Yes",1
+"129",37,2,"Psychiatric disorders","Anxiety",1,"Yes",0
+"130",4,1,"Psychiatric disorders","Anxiety",4,"Yes",0
+"131",26,2,"Psychiatric disorders","Anxiety",2,"Yes",0
+"132",14,5,"Psychiatric disorders","Anxiety",1,"No",1
+"133",4,4,"Psychiatric disorders","Anxiety",2,"No",0
+"134",22,4,"Cardiac disorders","Aortic valve disease",1,"Yes",0
+"135",21,5,"Cardiac disorders","Aortic valve disease",1,"Yes",1
+"136",14,4,"Cardiac disorders","Aortic valve disease",1,"Yes",0
+"137",20,3,"Cardiac disorders","Aortic valve disease",1,"Yes",0
+"138",40,4,"Cardiac disorders","Aortic valve disease",1,"Yes",0
+"139",31,5,"Cardiac disorders","Aortic valve disease",1,"Yes",1
+"140",32,2,"Cardiac disorders","Aortic valve disease",2,"Yes",0
+"141",40,5,"Cardiac disorders","Aortic valve disease",4,"Yes",1
+"142",23,2,"Cardiac disorders","Aortic valve disease",1,"Yes",0
+"143",34,4,"Cardiac disorders","Aortic valve disease",2,"Yes",0
+"144",38,3,"Cardiac disorders","Aortic valve disease",2,"Yes",0
+"145",4,2,"Cardiac disorders","Aortic valve disease",1,"No",0
+"146",36,5,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",1
+"147",32,1,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",0
+"148",24,3,"Musculoskeletal and connective tissue disorders","Arthralgia",2,"No",0
+"149",37,5,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"No",1
+"150",23,1,"Musculoskeletal and connective tissue disorders","Arthralgia",3,"No",0
+"151",21,2,"Musculoskeletal and connective tissue disorders","Arthralgia",2,"Yes",0
+"152",17,1,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"No",0
+"153",20,2,"Musculoskeletal and connective tissue disorders","Arthralgia",2,"Yes",0
+"154",11,4,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",0
+"155",6,2,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",0
+"156",2,2,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",0
+"157",30,4,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",0
+"158",12,2,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",0
+"159",34,5,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"No",1
+"160",17,3,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",0
+"161",33,3,"Musculoskeletal and connective tissue disorders","Arthritis",1,"Yes",0
+"162",23,2,"Musculoskeletal and connective tissue disorders","Arthritis",1,"Yes",0
+"163",15,1,"Musculoskeletal and connective tissue disorders","Arthritis",1,"Yes",0
+"164",15,3,"Musculoskeletal and connective tissue disorders","Arthritis",1,"No",0
+"165",12,3,"Musculoskeletal and connective tissue disorders","Arthritis",1,"Yes",0
+"166",4,1,"Musculoskeletal and connective tissue disorders","Arthritis",3,"Yes",0
+"167",2,2,"Musculoskeletal and connective tissue disorders","Arthritis",1,"Yes",0
+"168",37,3,"Musculoskeletal and connective tissue disorders","Arthritis",1,"Yes",0
+"169",33,2,"Musculoskeletal and connective tissue disorders","Arthritis",1,"No",0
+"170",13,4,"Investigations","AST increased",2,"Yes",0
+"171",35,4,"Investigations","AST increased",1,"No",0
+"172",24,3,"Investigations","AST increased",3,"Yes",0
+"173",13,4,"Investigations","AST increased",2,"Yes",0
+"174",20,3,"Investigations","AST increased",2,"Yes",0
+"175",40,2,"Investigations","AST increased",1,"Yes",0
+"176",29,4,"Investigations","AST increased",4,"Yes",0
+"177",3,2,"Investigations","AST increased",1,"No",0
+"178",20,5,"Investigations","AST increased",3,"Yes",1
+"179",10,4,"Investigations","AST increased",3,"Yes",0
+"180",18,4,"Investigations","AST increased",3,"Yes",0
+"181",24,1,"Investigations","AST increased",1,"Yes",0
+"182",14,4,"Investigations","AST increased",5,"Yes",0
+"183",17,1,"Investigations","AST increased",2,"Yes",0
+"184",34,4,"Investigations","AST increased",1,"Yes",0
+"185",15,3,"Investigations","AST increased",1,"Yes",0
+"186",26,1,"Immune system disorders","Autoimmune disorder",2,"Yes",0
+"187",15,1,"Immune system disorders","Autoimmune disorder",1,"Yes",0
+"188",38,5,"Cardiac disorders","AV block complete",2,"No",1
+"189",6,3,"Cardiac disorders","AV block complete",1,"No",0
+"190",19,1,"Cardiac disorders","AV block complete",1,"Yes",0
+"191",21,2,"Cardiac disorders","AV block complete",1,"No",0
+"192",36,3,"Cardiac disorders","AV block complete",1,"No",0
+"193",32,3,"Cardiac disorders","AV block complete",2,"Yes",0
+"194",4,3,"Cardiac disorders","AV block complete",1,"Yes",0
+"195",25,1,"Cardiac disorders","AV block complete",4,"Yes",0
+"196",14,1,"Cardiac disorders","AV block complete",1,"Yes",0
+"197",13,1,"Cardiac disorders","AV block complete",1,"No",0
+"198",38,5,"Cardiac disorders","AV block complete",2,"Yes",1
+"199",37,5,"Cardiac disorders","AV block complete",1,"Yes",1
+"200",36,2,"Cardiac disorders","AV block complete",1,"No",0
+"201",40,3,"Cardiac disorders","AV block complete",3,"Yes",0
+"202",30,1,"Cardiac disorders","AV block complete",1,"No",0
+"203",22,4,"Cardiac disorders","AV block complete",3,"Yes",0
+"204",31,5,"Cardiac disorders","AV block complete",1,"Yes",1
+"205",32,5,"Cardiac disorders","AV block complete",3,"No",1
+"206",6,3,"Musculoskeletal and connective tissue disorders","Back pain",1,"No",0
+"207",2,1,"Musculoskeletal and connective tissue disorders","Back pain",2,"No",0
+"208",33,1,"Musculoskeletal and connective tissue disorders","Back pain",1,"Yes",0
+"209",24,5,"Musculoskeletal and connective tissue disorders","Back pain",3,"Yes",1
+"210",3,2,"Musculoskeletal and connective tissue disorders","Back pain",1,"No",0
+"211",15,5,"Musculoskeletal and connective tissue disorders","Back pain",2,"Yes",1
+"212",39,5,"Musculoskeletal and connective tissue disorders","Back pain",3,"Yes",1
+"213",31,2,"Musculoskeletal and connective tissue disorders","Back pain",1,"Yes",0
+"214",2,2,"Musculoskeletal and connective tissue disorders","Back pain",1,"Yes",0
+"215",30,3,"Musculoskeletal and connective tissue disorders","Back pain",1,"Yes",0
+"216",14,5,"Musculoskeletal and connective tissue disorders","Back pain",1,"No",1
+"217",19,1,"Musculoskeletal and connective tissue disorders","Back pain",2,"No",0
+"218",22,4,"Musculoskeletal and connective tissue disorders","Back pain",4,"No",0
+"219",9,4,"Musculoskeletal and connective tissue disorders","Back pain",1,"No",0
+"220",5,4,"Investigations","Blood bilirubin increased",2,"Yes",0
+"221",8,4,"Investigations","Blood bilirubin increased",1,"Yes",0
+"222",20,3,"Investigations","Blood bilirubin increased",2,"Yes",0
+"223",12,1,"Investigations","Blood bilirubin increased",3,"No",0
+"224",19,4,"Investigations","Blood bilirubin increased",1,"Yes",0
+"225",23,1,"Investigations","Blood bilirubin increased",1,"Yes",0
+"226",27,4,"Investigations","Blood bilirubin increased",1,"Yes",0
+"227",29,5,"Investigations","Blood bilirubin increased",1,"Yes",1
+"228",36,1,"Investigations","Blood bilirubin increased",3,"Yes",0
+"229",39,1,"Investigations","Blood bilirubin increased",2,"No",0
+"230",23,2,"Investigations","Blood bilirubin increased",1,"Yes",0
+"231",6,3,"Investigations","Blood bilirubin increased",1,"Yes",0
+"232",21,5,"Investigations","Blood bilirubin increased",1,"Yes",1
+"233",30,2,"Investigations","Blood corticotrophin decreased",1,"Yes",0
+"234",8,1,"Investigations","Blood corticotrophin decreased",1,"Yes",0
+"235",7,3,"Investigations","Blood corticotrophin decreased",1,"No",0
+"236",1,1,"Investigations","Blood corticotrophin decreased",1,"No",0
+"237",18,1,"Investigations","Blood corticotrophin decreased",1,"Yes",0
+"238",2,4,"Investigations","Blood corticotrophin decreased",1,"Yes",0
+"239",16,5,"Investigations","Blood corticotrophin decreased",1,"Yes",1
+"240",37,2,"Investigations","Blood corticotrophin decreased",1,"No",0
+"241",38,5,"Investigations","Blood corticotrophin decreased",3,"Yes",1
+"242",27,5,"Investigations","Blood corticotrophin decreased",4,"Yes",1
+"243",37,3,"Investigations","Blood corticotrophin decreased",1,"Yes",0
+"244",33,1,"Investigations","Blood corticotrophin decreased",2,"No",0
+"245",19,1,"Investigations","Blood corticotrophin decreased",1,"No",0
+"246",24,2,"Investigations","Blood corticotrophin decreased",1,"Yes",0
+"247",16,1,"Investigations","Blood corticotrophin decreased",1,"Yes",0
+"248",22,2,"Investigations","Blood corticotrophin decreased",1,"Yes",0
+"249",23,4,"Investigations","Blood corticotrophin decreased",2,"No",0
+"250",36,2,"Investigations","Blood corticotrophin decreased",3,"Yes",0
+"251",3,3,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"No",0
+"252",22,2,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"No",0
+"253",19,1,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"Yes",0
+"254",31,2,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",2,"Yes",0
+"255",36,3,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"Yes",0
+"256",13,1,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"No",0
+"257",35,5,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"Yes",1
+"258",10,3,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",3,"Yes",0
+"259",19,3,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"Yes",0
+"260",35,5,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",2,"No",1
+"261",31,2,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"No",0
+"262",18,1,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",5,"Yes",0
+"263",26,1,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"Yes",0
+"264",10,3,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",3,"Yes",0
+"265",13,2,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"Yes",0
+"266",17,5,"Eye disorders","Blurred vision",2,"Yes",1
+"267",19,5,"Eye disorders","Blurred vision",1,"Yes",1
+"268",16,2,"Eye disorders","Blurred vision",2,"Yes",0
+"269",10,1,"Eye disorders","Blurred vision",2,"No",0
+"270",13,3,"Eye disorders","Blurred vision",1,"No",0
+"271",16,2,"Eye disorders","Blurred vision",1,"Yes",0
+"272",6,3,"Eye disorders","Blurred vision",1,"No",0
+"273",28,4,"Eye disorders","Blurred vision",1,"Yes",0
+"274",20,4,"Eye disorders","Blurred vision",2,"Yes",0
+"275",10,2,"Eye disorders","Blurred vision",1,"Yes",0
+"276",4,3,"Eye disorders","Blurred vision",1,"Yes",0
+"277",17,5,"Eye disorders","Blurred vision",2,"No",1
+"278",35,3,"Eye disorders","Blurred vision",1,"No",0
+"279",30,5,"Eye disorders","Blurred vision",1,"No",1
+"280",22,2,"Musculoskeletal and connective tissue disorders","Bone pain",2,"No",0
+"281",16,2,"Musculoskeletal and connective tissue disorders","Bone pain",4,"Yes",0
+"282",14,1,"Musculoskeletal and connective tissue disorders","Bone pain",2,"No",0
+"283",8,3,"Musculoskeletal and connective tissue disorders","Bone pain",3,"Yes",0
+"284",20,1,"Musculoskeletal and connective tissue disorders","Bone pain",1,"No",0
+"285",6,3,"Musculoskeletal and connective tissue disorders","Bone pain",3,"Yes",0
+"286",11,5,"Musculoskeletal and connective tissue disorders","Bone pain",3,"No",1
+"287",2,1,"Musculoskeletal and connective tissue disorders","Bone pain",3,"No",0
+"288",33,1,"Musculoskeletal and connective tissue disorders","Bone pain",1,"Yes",0
+"289",16,3,"Musculoskeletal and connective tissue disorders","Bone pain",2,"No",0
+"290",15,1,"Musculoskeletal and connective tissue disorders","Bone pain",1,"Yes",0
+"291",10,3,"Musculoskeletal and connective tissue disorders","Bone pain",1,"Yes",0
+"292",30,5,"Musculoskeletal and connective tissue disorders","Bone pain",2,"Yes",1
+"293",35,3,"Musculoskeletal and connective tissue disorders","Bone pain",2,"No",0
+"294",24,4,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",1,"No",0
+"295",21,5,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",1,"No",1
+"296",19,4,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",2,"Yes",0
+"297",4,4,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",1,"Yes",0
+"298",36,2,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",2,"Yes",0
+"299",37,3,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",1,"Yes",0
+"300",19,2,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",1,"Yes",0
+"301",36,4,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",1,"Yes",0
+"302",33,1,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",1,"Yes",0
+"303",2,4,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",3,"Yes",0
+"304",7,2,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",2,"Yes",0
+"305",3,5,"Injury, poisoning and procedural complications","Bruising",2,"No",1
+"306",15,3,"Injury, poisoning and procedural complications","Bruising",1,"No",0
+"307",10,3,"Injury, poisoning and procedural complications","Bruising",2,"Yes",0
+"308",22,3,"Injury, poisoning and procedural complications","Bruising",1,"Yes",0
+"309",17,4,"Injury, poisoning and procedural complications","Bruising",1,"Yes",0
+"310",34,4,"Injury, poisoning and procedural complications","Bruising",1,"Yes",0
+"311",4,1,"Injury, poisoning and procedural complications","Bruising",1,"Yes",0
+"312",14,2,"Injury, poisoning and procedural complications","Bruising",1,"No",0
+"313",21,2,"Injury, poisoning and procedural complications","Bruising",1,"No",0
+"314",31,4,"Injury, poisoning and procedural complications","Bruising",2,"Yes",0
+"315",13,5,"Injury, poisoning and procedural complications","Bruising",1,"Yes",1
+"316",8,3,"Injury, poisoning and procedural complications","Bruising",1,"Yes",0
+"317",27,4,"Injury, poisoning and procedural complications","Bruising",1,"Yes",0
+"318",13,3,"Cardiac disorders","Cardiac arrest",1,"No",0
+"319",12,3,"Cardiac disorders","Cardiac arrest",4,"No",0
+"320",9,1,"Cardiac disorders","Cardiac arrest",1,"Yes",0
+"321",38,1,"Cardiac disorders","Cardiac arrest",4,"Yes",0
+"322",21,3,"Cardiac disorders","Cardiac arrest",1,"Yes",0
+"323",37,4,"Cardiac disorders","Cardiac arrest",1,"Yes",0
+"324",15,1,"Cardiac disorders","Cardiac arrest",3,"Yes",0
+"325",29,2,"Cardiac disorders","Cardiac arrest",1,"Yes",0
+"326",37,5,"Cardiac disorders","Cardiac arrest",4,"Yes",1
+"327",1,2,"Cardiac disorders","Cardiac arrest",1,"Yes",0
+"328",11,1,"Cardiac disorders","Cardiac disorder-Other, spec",2,"Yes",0
+"329",40,3,"Cardiac disorders","Cardiac disorder-Other, spec",1,"Yes",0
+"330",37,5,"Cardiac disorders","Cardiac disorder-Other, spec",1,"Yes",1
+"331",22,4,"Cardiac disorders","Cardiac disorder-Other, spec",1,"Yes",0
+"332",33,2,"Cardiac disorders","Cardiac disorder-Other, spec",1,"No",0
+"333",15,1,"Cardiac disorders","Cardiac disorder-Other, spec",1,"No",0
+"334",17,2,"Investigations","Cardiac troponin I increased",4,"No",0
+"335",39,3,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"336",38,3,"Investigations","Cardiac troponin I increased",2,"No",0
+"337",13,4,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"338",32,3,"Investigations","Cardiac troponin I increased",4,"Yes",0
+"339",31,3,"Investigations","Cardiac troponin I increased",3,"No",0
+"340",27,1,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"341",32,3,"Investigations","Cardiac troponin I increased",5,"Yes",0
+"342",33,1,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"343",15,1,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"344",24,5,"Investigations","Cardiac troponin I increased",1,"No",1
+"345",38,4,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"346",32,2,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"347",6,3,"Investigations","Cardiac troponin I increased",1,"No",0
+"348",27,5,"Investigations","Cardiac troponin I increased",2,"No",1
+"349",15,3,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"350",6,1,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"351",20,1,"Investigations","Cardiac troponin I increased",1,"Yes",0
+"352",18,4,"Investigations","Cardiac troponin I increased",4,"Yes",0
+"353",34,4,"Infections and infestations","Catheter related infection",1,"No",0
+"354",12,4,"Infections and infestations","Catheter related infection",1,"Yes",0
+"355",18,4,"Infections and infestations","Catheter related infection",1,"No",0
+"356",36,5,"Infections and infestations","Catheter related infection",2,"No",1
+"357",27,4,"Infections and infestations","Catheter related infection",1,"No",0
+"358",39,4,"Infections and infestations","Catheter related infection",1,"No",0
+"359",29,4,"Infections and infestations","Catheter related infection",1,"No",0
+"360",31,2,"Infections and infestations","Catheter related infection",1,"No",0
+"361",30,1,"Infections and infestations","Catheter related infection",2,"Yes",0
+"362",6,4,"Infections and infestations","Catheter related infection",2,"Yes",0
+"363",15,3,"Infections and infestations","Catheter related infection",1,"Yes",0
+"364",21,3,"Infections and infestations","Catheter related infection",1,"Yes",0
+"365",18,3,"Infections and infestations","Catheter related infection",1,"Yes",0
+"366",10,1,"Infections and infestations","Catheter related infection",1,"Yes",0
+"367",36,3,"Infections and infestations","Catheter related infection",2,"Yes",0
+"368",31,1,"Infections and infestations","Catheter related infection",1,"Yes",0
+"369",28,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",1
+"370",9,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",4,"Yes",1
+"371",30,3,"Musculoskeletal and connective tissue disorders","Chest wall pain",2,"Yes",0
+"372",22,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",2,"No",1
+"373",31,3,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"No",0
+"374",18,2,"Musculoskeletal and connective tissue disorders","Chest wall pain",2,"Yes",0
+"375",36,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"No",1
+"376",31,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",1
+"377",15,4,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",0
+"378",11,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",3,"No",1
+"379",16,3,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",0
+"380",38,2,"Musculoskeletal and connective tissue disorders","Chest wall pain",2,"No",0
+"381",22,3,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",0
+"382",3,1,"Musculoskeletal and connective tissue disorders","Chest wall pain",4,"Yes",0
+"383",40,2,"Musculoskeletal and connective tissue disorders","Chest wall pain",3,"Yes",0
+"384",13,3,"Musculoskeletal and connective tissue disorders","Chest wall pain",3,"Yes",0
+"385",28,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",1
+"386",21,1,"Musculoskeletal and connective tissue disorders","Chest wall pain",2,"Yes",0
+"387",33,1,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"No",0
+"388",35,5,"General disorders and administration site conditions","Chills",2,"Yes",1
+"389",39,3,"General disorders and administration site conditions","Chills",2,"No",0
+"390",38,5,"General disorders and administration site conditions","Chills",3,"No",1
+"391",22,2,"General disorders and administration site conditions","Chills",1,"Yes",0
+"392",23,3,"General disorders and administration site conditions","Chills",1,"Yes",0
+"393",11,5,"General disorders and administration site conditions","Chills",3,"Yes",1
+"394",19,3,"General disorders and administration site conditions","Chills",1,"No",0
+"395",2,3,"General disorders and administration site conditions","Chills",1,"No",0
+"396",17,5,"General disorders and administration site conditions","Chills",1,"No",1
+"397",23,2,"General disorders and administration site conditions","Chills",2,"Yes",0
+"398",23,1,"General disorders and administration site conditions","Chills",3,"No",0
+"399",2,3,"General disorders and administration site conditions","Chills",1,"Yes",0
+"400",13,2,"General disorders and administration site conditions","Chills",1,"Yes",0
