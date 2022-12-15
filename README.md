@@ -14,7 +14,7 @@ With the codes, you will be able to:
 
 For an illustration example, you can download the sample datasets from the **Sample Data** file and follow the steps below.
 
-The AE data set may not be medically feasible....
+The AE data set is randomly generated for illustration purpose and may not medically make sense.
 
 ## Usage
 
