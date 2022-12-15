@@ -35,21 +35,21 @@ The AE data set is randomly generated for illustration purpose and may not medic
 
 * `TypeHorizontalBar.R` and `TypeVerticalBar.R` contain functions that can only be used to visualize AE data summarized on the **AE type level**. To use the functions to plot the graphs, you need to specify:
   * TypeVerticalBar(df_pt_ae, tox_include)
-  ![circular1](https://user-images.githubusercontent.com/75338470/207113050-5ed348e4-ffa5-40fb-95f5-9712f4023f35.png)
+![Maximum Toxicity Type 2022-12-15 (1)](https://user-images.githubusercontent.com/75338470/207946361-1d1a67c8-d461-41e4-813e-ef1e74381cdd.png)
 
   * TypeHorizontalBar(df_pt_ae, tox_include)
-  ![circular2](https://user-images.githubusercontent.com/75338470/207113250-0c52e6aa-3a70-422c-bfb5-6e4ab52e2053.png)
-  
+  ![Maximum Toxicity Type 2022-12-15](https://user-images.githubusercontent.com/75338470/207946385-641b62a2-7d5d-42e4-b4a0-ec79b2f196ae.png)
+
 * `CatHorizontalBar.R` , `CatVerticalBar.R` , `CatCombinedCircular.R` and `CatSeparateCircular.R` contain functions that can only be used to visualize AE data summarized on the **AE category level**. To use the functions to plot the graphs, you need to specify:
   
   * CatSeparateCircular(df_pt_cat, tox_include)
-  ![circular3](https://user-images.githubusercontent.com/75338470/207113278-a5c3bb7d-2dc6-47ee-8991-94b6a617015c.png)
+![Maximum Toxicity Category 2022-12-15 (2)](https://user-images.githubusercontent.com/75338470/207946215-7ae24d3f-d050-4c61-bcfb-0dee113bbfd2.png)
 
   * CatCombinedCircular(df_pt_cat, tox_include)
-  ![circular4](https://user-images.githubusercontent.com/75338470/207113293-c80a7688-4ef8-4d4f-ac0c-b526d96a8aa8.png)
+![Maximum Toxicity Category 2022-12-15 (3)](https://user-images.githubusercontent.com/75338470/207946142-f534fbff-a17d-442b-a7ff-7bacf4d1c42e.png)
 
   * CatVerticalBar(df_pt_cat, tox_include)
-  ![circular5](https://user-images.githubusercontent.com/75338470/207113330-fb78f6eb-9247-4d3c-bb54-ee63d9672759.png)
+![Maximum Toxicity Category 2022-12-15 (1)](https://user-images.githubusercontent.com/75338470/207946265-1fd56140-dfe0-4f05-ab99-5851015d0ea7.png)
 
   * CatHorizontalBar(df_pt_cat, tox_include)
-![circular6](https://user-images.githubusercontent.com/75338470/207113352-da0c9dca-a58e-4e10-9ff9-97bfdcaa84fb.png)
+![Maximum Toxicity Category 2022-12-15](https://user-images.githubusercontent.com/75338470/207946317-9775329e-9075-4a5e-88d9-f242d02e1326.png)
