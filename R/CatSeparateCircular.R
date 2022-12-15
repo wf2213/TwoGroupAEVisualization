@@ -1,4 +1,4 @@
-circular3 = function(data, tox_include){
+CatSeparateCircular = function(data, tox_include){
   
   trno_freq = table(trt_group$TRNO1) %>% as.data.frame()
   names(trno_freq) = c("TRNO1", "trno_tot")
