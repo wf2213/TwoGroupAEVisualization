@@ -1,4 +1,4 @@
-circular4 = function(data, tox_include){
+CatCombinedCircular = function(data, tox_include){
   
   order_trt = order %>% as.character()
   other_trt = setdiff(trt_group$TRNO1 %>% unique(), order_trt) %>% as.character()
