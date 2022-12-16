@@ -1,21 +1,21 @@
-# Two-Group AE Visualization <img src="https://user-images.githubusercontent.com/75338470/207113593-46e66aff-74f6-43fc-b543-a9cd736c6cc3.png" align="right" width="100"/>
+# Two-Group Adverse Event Visualization <img src="https://user-images.githubusercontent.com/75338470/207113593-46e66aff-74f6-43fc-b543-a9cd736c6cc3.png" align="right" width="100"/>
 
 
 #### :wave: Hi, there
 
-This file can help you to get started with using the codes for adverse event visualization from the Shiny app designed to visually compare adverse event profiles between two groups (add Shiny App link). 
+This file will help you to get started with using the codes for adverse event (AE) visualization from the Shiny app designed to visually compare adverse event profiles between two treatment groups (add Shiny App link).
 
 With the codes, you will be able to:
 
 * Generate the same graphs as in the Shiny app
 * Customize the graphs 
-* Adapt the codes for other visualization settings
+* Adapt the codes for other visualization settings. For example, this app can also be used to visualize AE resolution. An example of how to process the data will be provided at the end of this document.
 
-For an illustration example, you can download the sample datasets from the **Sample Data** file and follow the steps below.
-
-*The AE data set is randomly generated for illustration purpose and may not medically make sense.*
+*The AE data set is randomly generated with codes in file `GenerateSampleData.R` for illustration purpose and may not medically make sense.*
 
 ## Usage
+
+For an illustration example, you can download the sample datasets from the **Sample Data** file and follow the steps below.
 
 1. Import the ID and AE datasets in R
 2. Run the `CreateDataset.R` to generate the datasets needed for the functions to plot graphs (*df_pt_cat* when the data is summarized by AE category, *df_pt_ae* when the data is summarized by AE type)
@@ -52,3 +52,17 @@ For an illustration example, you can download the sample datasets from the **Sam
 
   * CatHorizontalBar(df_pt_cat, tox_include)
 ![Maximum Toxicity Category 2022-12-15](https://user-images.githubusercontent.com/75338470/207946317-9775329e-9075-4a5e-88d9-f242d02e1326.png)
+
+To use this app for visualizing AE resolution data (whether the AE is resolved or not by the end of the trial), you can use the following code for the data processing before running `CreateDataset.R`. This code assumes that all the unresolved AEs are carried on until the last cycle and indicated with *AEONGOING = 1*
+
+```
+# CYCLE is the number of cycle in which the AE happens
+# AEONGOING is the indicator of whether the AE is resolved (1 = ongoing, 0 = resolved)
+ae = ae %>%
+  group_by(PATNO) %>%
+  summarise(MAX_CYCLE = max(CYCLENO)) %>%
+  select(PATNO, MAX_CYCLE) %>%
+  merge(ae) %>%
+  filter(CYCLENO == MAX_CYCLE) %>%
+  filter(AEONGOING == 1)
+```
