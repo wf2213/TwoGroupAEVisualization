@@ -53,7 +53,9 @@ For an illustration example, you can download the sample datasets from the **Sam
   * CatHorizontalBar(df_pt_cat, tox_include)
 ![Maximum Toxicity Category 2022-12-15](https://user-images.githubusercontent.com/75338470/207946317-9775329e-9075-4a5e-88d9-f242d02e1326.png)
 
-To use this app for visualizing AE resolution data (whether the AE is resolved or not by the end of the trial), you can use the following code for the data processing before running `PrepareInputDataset.R`. This code assumes that all the unresolved AEs are carried forward until the last cycle and are indicated with *AEONGOING = 1*
+## Other visualization using code
+
+For example, to use this app for visualizing AE resolution data (whether the AE is resolved or not by the end of the trial), you can use the following code for the data processing before running `PrepareInputDataset.R`. This code assumes that all the unresolved AEs are carried forward until the last cycle and are indicated with *AEONGOING = 1*
 
 ```
 # CYCLE is the number of cycle in which the AE happens
