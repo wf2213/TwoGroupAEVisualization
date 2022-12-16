@@ -76,3 +76,5 @@ ae = ae %>%
 ```
 
 A processed AE resolution sample data based on the sample AE data is in **Sample Data** file.
+
+add sample plot exaxmple
