@@ -57,12 +57,14 @@ To use this app for visualizing AE resolution data (whether the AE is resolved o
 
 ```
 # CYCLE is the number of cycle in which the AE happens
-# AEONGOING is the indicator of whether the AE is resolved (1 = ongoing, 0 = resolved)
+# AEONGOING is the indicator for whether the AE is resolved in the cycle (1 = ongoing, 0 = resolved)
 ae = ae %>%
   group_by(PATNO) %>%
-  summarise(MAX_CYCLE = max(CYCLENO)) %>%
+  summarise(MAX_CYCLE = max(CYCLE)) %>%
   select(PATNO, MAX_CYCLE) %>%
   merge(ae) %>%
-  filter(CYCLENO == MAX_CYCLE) %>%
+  filter(CYCLE == MAX_CYCLE) %>%
   filter(AEONGOING == 1)
 ```
+
+A processed AE resolution sample data based on the sample AE data is in **Sample Data** file.
