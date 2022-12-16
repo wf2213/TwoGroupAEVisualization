@@ -63,8 +63,8 @@ ae = ae %>%
   summarise(MAX_CYCLE = max(CYCLE)) %>%
   select(PATNO, MAX_CYCLE) %>%
   merge(ae) %>%
-  filter(CYCLE == MAX_CYCLE) %>%
-  filter(AEONGOING == 1)
+  filter(CYCLE == MAX_CYCLE,
+         AEONGOING == 1)
 ```
 
 A processed AE resolution sample data based on the sample AE data is in **Sample Data** file.
