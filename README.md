@@ -3,7 +3,7 @@
 
 #### :wave: Hi, there
 
-This file will help you to get started with using the codes for adverse event (AE) visualization from the Shiny app designed to visually compare adverse event profiles between two treatment groups (add Shiny App link).
+This file will help you to get started with using the codes for adverse event (AE) visualization from the Shiny app designed to visually compare adverse event profiles between two treatment groups dynamically (add Shiny App link).
 
 With the codes, you will be able to:
 
