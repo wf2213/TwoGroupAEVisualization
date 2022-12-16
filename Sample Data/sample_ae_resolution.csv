@@ -1,0 +1,78 @@
+"PATNO","max_cycle","CYCLE","CTC_CAT","TOXLABEL","TOXDEG","TXATT","AEONGOING"
+3,5,5,"Endocrine disorders","Adrenal insufficiency",2,"Yes",1
+3,5,5,"Blood and lymphatic system disorders","Anemia",3,"Yes",1
+3,5,5,"Injury, poisoning and procedural complications","Bruising",2,"No",1
+5,5,5,"Investigations","ALT increased",2,"Yes",1
+6,5,5,"Psychiatric disorders","Anxiety",4,"No",1
+7,5,5,"Endocrine disorders","Adrenal insufficiency",1,"Yes",1
+7,5,5,"Metabolism and nutrition disorders","Anorexia",2,"Yes",1
+7,5,5,"Endocrine disorders","Adrenal insufficiency",1,"Yes",1
+9,5,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",4,"Yes",1
+11,5,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",3,"No",1
+11,5,5,"General disorders and administration site conditions","Chills",3,"Yes",1
+11,5,5,"Musculoskeletal and connective tissue disorders","Bone pain",3,"No",1
+12,5,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+12,5,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+13,5,5,"Injury, poisoning and procedural complications","Bruising",1,"Yes",1
+14,5,5,"Psychiatric disorders","Anxiety",1,"No",1
+14,5,5,"Musculoskeletal and connective tissue disorders","Back pain",1,"No",1
+15,5,5,"Musculoskeletal and connective tissue disorders","Back pain",2,"Yes",1
+15,5,5,"Psychiatric disorders","Agitation",4,"No",1
+16,5,5,"Investigations","Blood corticotrophin decreased",1,"Yes",1
+16,5,5,"Gastrointestinal disorders","Abdominal pain",1,"Yes",1
+16,5,5,"Gastrointestinal disorders","Abdominal pain",3,"No",1
+17,5,5,"Eye disorders","Blurred vision",2,"Yes",1
+17,5,5,"General disorders and administration site conditions","Chills",1,"No",1
+17,5,5,"Eye disorders","Blurred vision",2,"No",1
+19,5,5,"Eye disorders","Blurred vision",1,"Yes",1
+20,5,5,"Investigations","AST increased",3,"Yes",1
+21,5,5,"Cardiac disorders","Aortic valve disease",1,"Yes",1
+21,5,5,"Respiratory, thoracic and mediastinal disorders","Bronchopulmonary hemorrhage",1,"No",1
+21,5,5,"Investigations","Alkaline phosphatase increased",1,"Yes",1
+21,5,5,"Investigations","Blood bilirubin increased",1,"Yes",1
+22,5,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+22,5,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",2,"No",1
+24,5,5,"Musculoskeletal and connective tissue disorders","Back pain",3,"Yes",1
+24,5,5,"Investigations","Cardiac troponin I increased",1,"No",1
+24,5,5,"Skin and subcutaneous tissue disorders","Alopecia",1,"No",1
+24,5,5,"Psychiatric disorders","Agitation",2,"No",1
+25,5,5,"Blood and lymphatic system disorders","Anemia",2,"Yes",1
+26,5,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+26,5,5,"Psychiatric disorders","Agitation",1,"Yes",1
+27,5,5,"Investigations","Blood corticotrophin decreased",4,"Yes",1
+27,5,5,"Investigations","Cardiac troponin I increased",2,"No",1
+28,5,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",1
+28,5,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",1
+29,5,5,"Investigations","Blood bilirubin increased",1,"Yes",1
+29,5,5,"Psychiatric disorders","Anxiety",2,"Yes",1
+29,5,5,"Metabolism and nutrition disorders","Anorexia",1,"No",1
+30,5,5,"Eye disorders","Blurred vision",1,"No",1
+30,5,5,"Musculoskeletal and connective tissue disorders","Bone pain",2,"Yes",1
+31,5,5,"Cardiac disorders","AV block complete",1,"Yes",1
+31,5,5,"Cardiac disorders","Aortic valve disease",1,"Yes",1
+31,5,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"Yes",1
+32,5,5,"Cardiac disorders","AV block complete",3,"No",1
+32,5,5,"Investigations","ALT increased",1,"Yes",1
+33,5,5,"Skin and subcutaneous tissue disorders","Alopecia",2,"No",1
+34,5,5,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"No",1
+35,5,5,"Gastrointestinal disorders","Abdominal pain",2,"No",1
+35,5,5,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",1,"Yes",1
+35,5,5,"General disorders and administration site conditions","Chills",2,"Yes",1
+35,5,5,"Blood and lymphatic system disorders","Blood/lymph disorder-Other",2,"No",1
+36,5,5,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"Yes",1
+36,5,5,"Musculoskeletal and connective tissue disorders","Chest wall pain",1,"No",1
+36,5,5,"Gastrointestinal disorders","Abdominal pain",1,"Yes",1
+36,5,5,"Infections and infestations","Catheter related infection",2,"No",1
+37,5,5,"Cardiac disorders","AV block complete",1,"Yes",1
+37,5,5,"Cardiac disorders","Cardiac arrest",4,"Yes",1
+37,5,5,"Cardiac disorders","Cardiac disorder-Other, spec",1,"Yes",1
+37,5,5,"Musculoskeletal and connective tissue disorders","Arthralgia",1,"No",1
+37,5,5,"Blood and lymphatic system disorders","Anemia",1,"Yes",1
+38,5,5,"Cardiac disorders","AV block complete",2,"No",1
+38,5,5,"Investigations","Blood corticotrophin decreased",3,"Yes",1
+38,5,5,"General disorders and administration site conditions","Chills",3,"No",1
+38,5,5,"Skin and subcutaneous tissue disorders","Alopecia",1,"Yes",1
+38,5,5,"Metabolism and nutrition disorders","Anorexia",1,"Yes",1
+38,5,5,"Cardiac disorders","AV block complete",2,"Yes",1
+39,5,5,"Musculoskeletal and connective tissue disorders","Back pain",3,"Yes",1
+40,5,5,"Cardiac disorders","Aortic valve disease",4,"Yes",1
