@@ -1,9 +1,9 @@
-# Two-Group Adverse Event Visualization <img src="https://user-images.githubusercontent.com/75338470/207113593-46e66aff-74f6-43fc-b543-a9cd736c6cc3.png" align="right" width="100"/>
+# Two-Group Adverse Event Type Visualization <img src="https://user-images.githubusercontent.com/75338470/207113593-46e66aff-74f6-43fc-b543-a9cd736c6cc3.png" align="right" width="100"/>
 
 
 #### :wave: Hi, there
 
-This file will help you to get started with using the codes for adverse event (AE) visualization from the Shiny app designed to visually compare adverse event profiles between two treatment groups dynamically (add Shiny App link).
+This file provides the code for adverse event (AE) type visualization Shiny app designed to visually compare adverse event types and categories between two treatment groups (add Shiny App link).
 
 With the codes, you will be able to:
 
