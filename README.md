@@ -9,7 +9,7 @@ With the codes, you will be able to:
 
 * Generate the same graphs as in the Shiny app
 * Customize the graphs 
-* Adapt the codes for other visualization settings. For example, this app can also be used to visualize **AE resolution**. An example of how to process the data will be provided at the end of this document.
+* Adapt the codes for other visualization settings. For example, this app can also be used to visualize **AE resolution**. An example of how to prepare the data will be provided at the end of this document.
 
 *The AE data set is randomly generated with codes in file `GenerateSampleData.R` for illustration purpose and may not medically make sense.*
 
