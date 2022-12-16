@@ -28,7 +28,13 @@ For an illustration example, you can download the sample datasets from the **Sam
     * **order**: Treatment arm you would like to be used to sort all the plots
     * **type**: Whether you would like to plot count or percent
     * **abbre**: Whether you would like to use abbreviation for the categories in the plots
-3. choose plots you would like to generate and run the corresponding R scripts. 
+3. choose plots you would like to generate and run the corresponding R scripts.
+  * plot proportion of ... take language from manuscript
+  *
+  *
+  *
+  *
+  *
 
 4. Specify the following function to create the correponding plots. 
 
