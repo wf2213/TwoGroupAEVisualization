@@ -29,35 +29,35 @@ For an illustration example, you can download the sample datasets from the **Sam
     * **type**: Whether you would like to plot count or percent
     * **abbre**: Whether you would like to use abbreviation for the categories in the plots
 3. choose plots you would like to generate and run the corresponding R scripts.
-    * plot proportion of ... take language from manuscript
-    *
-    *
-    *
-    *
-    *
+ * To visualize the data summarized on the **AE type level**, the two functions below display the count or proportion of maximal grade of AEs for each patient by severity for each **AE type** and allow the visual comparison of AEs across treatment arms by mirroring the data across a central axis either **vertically** or **hotizontally**. The bars are sorted (in descending order) based on the frequency of the events by AE category – and then by AE term within SOC – in one arm.
+    * `TypeVerticalBar.R`
+    * `TypeHorizontalBar.R` 
+ * Similarly, to visualize the data summarized on the **AE category level**, the two functions below display the count or proportion of maximal grade of AEs by severity for each **AE category** between two arms either **vertically** or **hotizontally**.
+    * `CatVerticalBar.R`
+    * `CatHorizontalBar.R`
+ * Another way to visualize the data summarized on the **AE category level** is to use the circular plots below to display the count or proportion of maximal grade of AEs by severity for each **AE category**. The treatment arms can be displayed **side by side within the same circular plot** for each **AE category** using different color schemes.  Alternatively, the information can be displayed using **two circular plots side by side** with the exact same position for the AE categories using the same color.
+    * `CatCombinedCircular.R`
+    * `CatSeparateCircular.R`
 
 4. Specify the following function to create the correponding plots. 
 
-* `TypeHorizontalBar.R` and `TypeVerticalBar.R` contain functions that can only be used to visualize AE data summarized on the **AE type level**. To use the functions to plot the graphs, you need to specify:
   * TypeVerticalBar(df_pt_ae, tox_include)
 ![Maximum Toxicity Type 2022-12-15 (1)](https://user-images.githubusercontent.com/75338470/207946361-1d1a67c8-d461-41e4-813e-ef1e74381cdd.png)
 
   * TypeHorizontalBar(df_pt_ae, tox_include)
   ![Maximum Toxicity Type 2022-12-15](https://user-images.githubusercontent.com/75338470/207946385-641b62a2-7d5d-42e4-b4a0-ec79b2f196ae.png)
 
-* `CatHorizontalBar.R` , `CatVerticalBar.R` , `CatCombinedCircular.R` and `CatSeparateCircular.R` contain functions that can only be used to visualize AE data summarized on the **AE category level**. To use the functions to plot the graphs, you need to specify:
-  
-  * CatSeparateCircular(df_pt_cat, tox_include)
-![Maximum Toxicity Category 2022-12-15 (2)](https://user-images.githubusercontent.com/75338470/207946215-7ae24d3f-d050-4c61-bcfb-0dee113bbfd2.png)
-
-  * CatCombinedCircular(df_pt_cat, tox_include)
-![Maximum Toxicity Category 2022-12-15 (3)](https://user-images.githubusercontent.com/75338470/207946142-f534fbff-a17d-442b-a7ff-7bacf4d1c42e.png)
-
   * CatVerticalBar(df_pt_cat, tox_include)
 ![Maximum Toxicity Category 2022-12-15 (1)](https://user-images.githubusercontent.com/75338470/207946265-1fd56140-dfe0-4f05-ab99-5851015d0ea7.png)
 
   * CatHorizontalBar(df_pt_cat, tox_include)
 ![Maximum Toxicity Category 2022-12-15](https://user-images.githubusercontent.com/75338470/207946317-9775329e-9075-4a5e-88d9-f242d02e1326.png)
+
+  * CatCombinedCircular(df_pt_cat, tox_include)
+![Maximum Toxicity Category 2022-12-15 (3)](https://user-images.githubusercontent.com/75338470/207946142-f534fbff-a17d-442b-a7ff-7bacf4d1c42e.png)
+
+  * CatSeparateCircular(df_pt_cat, tox_include)
+![Maximum Toxicity Category 2022-12-15 (2)](https://user-images.githubusercontent.com/75338470/207946215-7ae24d3f-d050-4c61-bcfb-0dee113bbfd2.png)
 
 ## Other Visualization Using Code
 
