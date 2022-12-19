@@ -89,4 +89,5 @@ ae = ae %>%
 
 A processed AE resolution sample data based on the sample AE data is in **Sample Data** file.
 
-add sample plot exaxmple
+An example of the generated plot with the AE resolution data is shown below:
+![AE_resolution_exmaple](https://user-images.githubusercontent.com/75338470/208353381-badb2810-0bd2-452e-a430-0d2cf84b81e1.png)
