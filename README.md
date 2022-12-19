@@ -41,22 +41,34 @@ For an illustration example, you can download the sample datasets from the **Sam
 
 4. Specify the following function to create the correponding plots. 
 
-  * TypeVerticalBar(df_pt_ae, tox_include)
+```
+TypeVerticalBar(df_pt_ae, tox_include)
+```
 ![Maximum Toxicity Type 2022-12-15 (1)](https://user-images.githubusercontent.com/75338470/207946361-1d1a67c8-d461-41e4-813e-ef1e74381cdd.png)
 
-  * TypeHorizontalBar(df_pt_ae, tox_include)
-  ![Maximum Toxicity Type 2022-12-15](https://user-images.githubusercontent.com/75338470/207946385-641b62a2-7d5d-42e4-b4a0-ec79b2f196ae.png)
+ ```
+ TypeHorizontalBar(df_pt_ae, tox_include)
+ ```
+![Maximum Toxicity Type 2022-12-15](https://user-images.githubusercontent.com/75338470/207946385-641b62a2-7d5d-42e4-b4a0-ec79b2f196ae.png)
 
-  * CatVerticalBar(df_pt_cat, tox_include)
+```
+CatVerticalBar(df_pt_cat, tox_include)
+```
 ![Maximum Toxicity Category 2022-12-15 (1)](https://user-images.githubusercontent.com/75338470/207946265-1fd56140-dfe0-4f05-ab99-5851015d0ea7.png)
 
-  * CatHorizontalBar(df_pt_cat, tox_include)
+```
+CatHorizontalBar(df_pt_cat, tox_include)
+```
 ![Maximum Toxicity Category 2022-12-15](https://user-images.githubusercontent.com/75338470/207946317-9775329e-9075-4a5e-88d9-f242d02e1326.png)
 
-  * CatCombinedCircular(df_pt_cat, tox_include)
+```
+CatCombinedCircular(df_pt_cat, tox_include)
+```
 ![Maximum Toxicity Category 2022-12-15 (3)](https://user-images.githubusercontent.com/75338470/207946142-f534fbff-a17d-442b-a7ff-7bacf4d1c42e.png)
 
-  * CatSeparateCircular(df_pt_cat, tox_include)
+```
+CatSeparateCircular(df_pt_cat, tox_include)
+```
 ![Maximum Toxicity Category 2022-12-15 (2)](https://user-images.githubusercontent.com/75338470/207946215-7ae24d3f-d050-4c61-bcfb-0dee113bbfd2.png)
 
 ## Other Visualization Using Code
