@@ -5,13 +5,13 @@
 
 This file provides the code for adverse event (AE) type visualization Shiny app designed to visually compare adverse event types and categories between two treatment groups (add Shiny App link).
 
-With the codes, you will be able to:
+With the code, you will be able to:
 
 * Generate the same graphs as in the Shiny app
 * Customize the graphs 
-* Adapt the codes for other visualization settings. For example, this app can also be used to visualize **AE resolution**. An example of how to prepare the data will be provided at the end of this document.
+* Adapt the code for other visualization settings. For example, this app can also be used to visualize **AE resolution**. An example of how to prepare the data will be provided at the end of this document.
 
-*The AE data set is randomly generated with codes in file `GenerateSampleData.R` for illustration purpose and may not medically make sense.*
+*The AE data set is randomly generated with code in file `GenerateSampleData.R` for illustration purpose and may not medically make sense.*
 
 ## Usage
 
