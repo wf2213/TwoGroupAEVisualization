@@ -3,7 +3,7 @@
 
 #### :wave: Hi, there
 
-This file provides the code for adverse event (AE) type visualization Shiny app designed to visually compare adverse event types and categories between two treatment groups (add Shiny app link).
+This file provides the code for adverse event (AE) type visualization Shiny app designed to visually compare adverse event types and categories between two treatment arms (add Shiny app link).
 
 With the code, you will be able to:
 
@@ -29,7 +29,7 @@ For an illustration example, you can download the sample datasets from the **Sam
     * **type**: Whether you would like to plot count or percent
     * **abbre**: Whether you would like to use abbreviation for the categories in the plots
 3. choose plots you would like to generate and run the corresponding R scripts.
- * To visualize the data summarized on the **AE type level**, the two functions below display the count or proportion of maximal grade of AEs for each patient by severity for each **AE type** and allow the visual comparison of AEs across treatment arms by mirroring the data across a central axis either **vertically** or **hotizontally**. The bars are sorted (in descending order) based on the frequency of the events by AE category – and then by AE term within SOC – in one arm.
+ * To visualize the data summarized on the **AE type level**, the two functions below display the count or proportion of maximal grade of AEs for each patient by severity for each **AE type** and allow the visual comparison of AEs across treatment arms by mirroring the data across a central axis either **vertically** or **hotizontally**. The bars are sorted (in descending order) based on the frequency of the events by AE category – and then by AE term within AE category – in one arm.
     * `TypeVerticalBar.R`
     * `TypeHorizontalBar.R` 
  * Similarly, to visualize the data summarized on the **AE category level**, the two functions below display the count or proportion of maximal grade of AEs by severity for each **AE category** between two arms either **vertically** or **hotizontally**.
