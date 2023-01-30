@@ -3,7 +3,7 @@
 
 #### :wave: Hi, there
 
-This file provides the code for adverse event (AE) type visualization Shiny app designed to visually compare adverse event types and categories between two treatment arms (add Shiny app link).
+This file provides the code for adverse event (AE) type visualization [Shiny app](https://wf2213.shinyapps.io/AEShinyApp_TwoGroup/) designed to visually compare adverse event types and categories between two treatment arms. The development of this project is funded by the Impact Award from the Hope Foundation.
 
 With the code, you will be able to:
 
