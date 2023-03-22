@@ -1,7 +1,7 @@
 # Two-Group Adverse Event Data Visualization <img src="https://user-images.githubusercontent.com/75338470/207113593-46e66aff-74f6-43fc-b543-a9cd736c6cc3.png" align="right" width="100"/>
 
 
-### :wave: Hi, welcome to the Two-Group Adverse Event Data Visualization Tool!
+#### :wave: Hi, welcome to the Two-Group Adverse Event Data Visualization Tool!
 
 **Click** [here](https://wf2213.shinyapps.io/AEShinyApp_TwoGroup/) to get directed to the **Two-Group Adverse Event Data Visualization Shiny app**.
 
