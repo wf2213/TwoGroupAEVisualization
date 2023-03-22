@@ -3,7 +3,9 @@
 
 #### :wave: Hi, there
 
-This file provides the code for the [Two-Group AE Visualization Shiny app](https://wf2213.shinyapps.io/AEShinyApp_TwoGroup/) designed to visually compare adverse event (AE) types and categories between two treatment arms. 
+*Click* [here](https://wf2213.shinyapps.io/AEShinyApp_TwoGroup/) to get directed to the *Two-Group AE Visualization Shiny app*.
+
+This file provides the code for the Shiny app designed to visually compare adverse event (AE) types and categories between two treatment arms. 
 
 The development of this project is funded by *the Impact Award* from [the Hope Foundation](https://thehopefoundation.org/funding-opportunities/#:~:text=The%20SWOG%2FHope%20Impact%20Award,conceptual%20stages%20of%20these%20projects.).
 
