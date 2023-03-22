@@ -3,7 +3,7 @@
 
 #### :wave: Hi, there
 
-**Click** [here](https://wf2213.shinyapps.io/AEShinyApp_TwoGroup/) to get directed to the <span style="color: blue;">*Two-Group AE Visualization Shiny app*</span>.
+**Click [here](https://wf2213.shinyapps.io/AEShinyApp_TwoGroup/) to get directed to the Two-Group AE Visualization Shiny app**.
 
 This file provides the code for the Shiny app designed to visually compare adverse event (AE) types and categories between two treatment arms. 
 
