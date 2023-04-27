@@ -5,9 +5,11 @@
 
 **Click** [here](https://wf2213.shinyapps.io/AEShinyApp_TwoGroup/) to get directed to the **Two-Group Adverse Event Data Visualization Shiny app**.
 
+**Cite the paper:** [Novel Approaches for Dynamic Visualization of Adverse Event Data in Oncology Clinical Trials: A Case Study Using Immunotherapy Trial S1400-I (SWOG)](https://pubmed.ncbi.nlm.nih.gov/37084329/)
+
 ## About
 
-This repository provides the code for the linked Shiny app designed to implement the noval approahces developed in the paper [Novel Approaches for Dynamic Visualization of Adverse Event Data in Oncology Clinical Trials: A Case Study Using Immunotherapy Trial S1400-I (SWOG)](https://pubmed.ncbi.nlm.nih.gov/37084329/) to visually compare adverse event (AE) types and categories between two treatment arms.
+This repository provides the code for the linked Shiny app designed to implement the noval approahces developed in the paper above to visually compare adverse event (AE) types and categories between two treatment arms.
 
 The development of this project is funded by *the Impact Award* from [the Hope Foundation](https://thehopefoundation.org/funding-opportunities/#:~:text=The%20SWOG%2FHope%20Impact%20Award,conceptual%20stages%20of%20these%20projects.).
 
